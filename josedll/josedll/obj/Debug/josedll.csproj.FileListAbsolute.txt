@@ -1,0 +1,7 @@
+C:\Users\DESARROLLO\Documents\Visual Studio 2017\Projects\josedll\josedll\bin\Debug\josedll.dll
+C:\Users\DESARROLLO\Documents\Visual Studio 2017\Projects\josedll\josedll\bin\Debug\josedll.pdb
+C:\Users\DESARROLLO\Documents\Visual Studio 2017\Projects\josedll\josedll\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DESARROLLO\Documents\Visual Studio 2017\Projects\josedll\josedll\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DESARROLLO\Documents\Visual Studio 2017\Projects\josedll\josedll\obj\Debug\josedll.csprojResolveAssemblyReference.cache
+C:\Users\DESARROLLO\Documents\Visual Studio 2017\Projects\josedll\josedll\obj\Debug\josedll.dll
+C:\Users\DESARROLLO\Documents\Visual Studio 2017\Projects\josedll\josedll\obj\Debug\josedll.pdb

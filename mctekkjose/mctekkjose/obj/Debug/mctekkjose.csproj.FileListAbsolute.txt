@@ -1,0 +1,13 @@
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\obj\Debug\mctekkjose.csprojResolveAssemblyReference.cache
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\obj\Debug\mctekkjose.Form1.resources
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\obj\Debug\mctekkjose.Properties.Resources.resources
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\obj\Debug\mctekkjose.csproj.GenerateResource.Cache
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\bin\Debug\mctekkjose.exe.config
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\bin\Debug\mctekkjose.exe
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\bin\Debug\mctekkjose.pdb
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\obj\Debug\mctekkjose.exe
+c:\users\desarrollo\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\obj\Debug\mctekkjose.pdb
+C:\Users\DESARROLLO\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DESARROLLO\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DESARROLLO\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\bin\Debug\josedll.dll
+C:\Users\DESARROLLO\documents\visual studio 2017\Projects\mctekkjose\mctekkjose\bin\Debug\josedll.pdb
